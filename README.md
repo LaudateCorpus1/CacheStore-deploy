@@ -16,39 +16,35 @@ Prerequisites
 ==
 
 - Operating Systems:
-	Linux
-	Mac
-	*Not tested on Windows*
+		Linux, Mac, Windows *Not Fully Tested*
 - Java (1.7.0_09-icedtea): https://java.com/en/download/
 
 Quickstart
 ==
-First, Extract tar or tar.gz file.
 
-Then,
 In terminal:
 
-- cd cachestore-deploy/
-- sudo sh bin/StartCachestore.sh
+	- cd cachestore-deploy/
+	- sudo sh bin/StartCachestore.sh
 
 In a new terminal:
 
-- cd cachestore-deploy/
-- sudo sh bin/CachestoreShell.sh
-- c = open("localhost:4200", "test")
-    ===> url localhost:4200 store test timeout 6000 nio false
-- listKey(c)
-    ===> [1 INT, 2 INT, 3 INT, 4 INT]
-- getv(c, 1)
-    ===> this
-- getv(c, 2)
-    ===> is
-- getv(c, 3)
-    ===> a
-- getv(c, 4)
-    ===> test
-- :exit
-- sh bin/StopCachestore.sh
+	- cd cachestore-deploy/
+	- sudo sh bin/CachestoreShell.sh
+	- c = open("localhost:4200", "test")
+			===> url localhost:4200 store test timeout 6000 nio false
+	- listKey(c)
+			===> [1 INT, 2 INT, 3 INT, 4 INT]
+	- getv(c, 1)
+			===> this
+	- getv(c, 2)
+			===> is
+	- getv(c, 3)
+			===> a
+	- getv(c, 4)
+			===> test
+	- :exit
+	- sh bin/StopCachestore.sh
 
 *Note* These commands are used based on the provided test store.xml and test0.* data files.
 
