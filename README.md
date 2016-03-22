@@ -14,16 +14,18 @@ triggers, queries, scans, and multiple gets and puts.
 
 Download
 ==
-CacheStore Remote Repository: https://github.com/viant/CacheStore-deploy
-CacheStore Remote .zip: https://github.com/viant/CacheStore/downloads/cachestore-deploy-1.0.2.zip
-CacheStore Remote .tar.gz: https://github.com/viant/CacheStore/downloads/cachestore-deploy-1.0.2.tar.gz
-CacheStore Remote .rpm: https://github.com/viant/CacheStore/downloads/cachestore-deploy-1.0.2-1.noarch.rpm
+CacheStore Remote Repository: https://github.com/viant/CacheStore-deploy  
+CacheStore Remote .zip: https://github.com/viant/CacheStore/downloads/cachestore-deploy-1.0.2.zip  
+CacheStore Remote .tar.gz: https://github.com/viant/CacheStore/downloads/cachestore-deploy-1.0.2.tar.gz  
+CacheStore Remote .rpm: https://github.com/viant/CacheStore/downloads/cachestore-deploy-1.0.2-1.noarch.rpm  
 
 Prerequisites
 ==
 
-- Operating Systems:
-    Linux, Mac, Windows *Not Fully Tested*
+- Operating Systems:  
+    - Linux
+    - Mac
+    - Windows *Not Fully Tested*
 - Java (1.7.0_09-icedtea): https://java.com/en/download/
 
 Quickstart
