@@ -15,9 +15,9 @@ triggers, queries, scans, and multiple gets and puts.
 Download
 ==
 CacheStore Remote Repository: https://github.com/viant/CacheStore-deploy  
-CacheStore Remote .zip: http://viant.github.io/CacheStore/downloads/cachestore-deploy-1.0.2.zip
-CacheStore Remote .tar.gz: http://viant.github.io/CacheStore/downloads/cachestore-deploy-1.0.2.tar.gz 
-CacheStore Remote .rpm: http://viant.github.io/CacheStore/downloads/cachestore-deploy-1.0.2-1.noarch.rpm
+CacheStore Remote .zip: http://viant.github.io/CacheStore/downloads/cachestore-deploy-1.0.2.zip  
+CacheStore Remote .tar.gz: http://viant.github.io/CacheStore/downloads/cachestore-deploy-1.0.2.tar.gz  
+CacheStore Remote .rpm: http://viant.github.io/CacheStore/downloads/cachestore-deploy-1.0.2-1.noarch.rpm  
 
 Prerequisites
 ==
