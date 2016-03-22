@@ -17,7 +17,7 @@ Download
 CacheStore Remote Repository: https://github.com/viant/CacheStore-deploy
 CacheStore Remote .zip: https://github.com/viant/CacheStore/downloads/cachestore-deploy-1.0.2.zip
 CacheStore Remote .tar.gz: https://github.com/viant/CacheStore/downloads/cachestore-deploy-1.0.2.tar.gz
-CacheStore Remote .rpm: https://github.com/viant/CacheStore/downloads/cachestore-deploy-1.0.2.rpm
+CacheStore Remote .rpm: https://github.com/viant/CacheStore/downloads/cachestore-deploy-1.0.2-1.noarch.rpm
 
 Prerequisites
 ==
